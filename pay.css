@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 300px;
+    border: 1px solid black;
+    margin: 200px auto;
+    color: black;
+    text-align: center;
+  
+    
+    
+}
+.box1{
+ background-color: rgb(247, 128, 167);
+padding: 10px;
+
+    
+}
+
+.box2{
+    background-color: white;
+  
+    
+}
+
+.box2 p{
+    margin: 15px auto;
+    text-align: left;
+    margin-left: 10px;
+}
+input{
+    background-color: rgb(247, 128, 167);
+    transition: 0.4s;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 15px auto;
+
+    
+}
+
+input:hover{
+    background-color: rgb(238, 23, 94);
+}
+.payh5 {
+    text-align: left; 
+    margin-left: 10px; 
+    margin-top: 10px; 
+    margin-bottom: 0;
+}
+
